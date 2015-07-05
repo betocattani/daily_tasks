@@ -2,12 +2,12 @@
 
 Steps:
 
-Clone the project
+1 - Clone the project
 
-$bundle install
+2 - Run $bundle install
 
-$rake db:create
+3 - Run $rake db:create
 
-$rake db:migrate
+4 - Run $rake db:migrate
 
-$rails server
+5 - Run $rails server
