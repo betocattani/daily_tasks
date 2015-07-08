@@ -2,7 +2,7 @@
 
 ###Steps:
 
-Clone the project and run sequence commands below:
+Clone the project and run commands below:
 ```
 $ git clone https://github.com/betocattani/daily_tasks.git
 ```
