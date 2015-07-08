@@ -1,13 +1,25 @@
-#Daily Tasks
+##Daily Tasks
 
-Steps:
+###Steps:
 
-1 - Clone the project
+Clone the project and run sequence commands below:
+```
+$ git clone https://github.com/betocattani/daily_tasks.git
+```
+```
+$ bundle install
+```
 
-2 - Run $bundle install
+```
+$ rake db:create
+```
+```
+$ rake db:migrate
+```
+```
+$ rails s
+```
 
-3 - Run $rake db:create
 
-4 - Run $rake db:migrate
 
-5 - Run $rails server
+
